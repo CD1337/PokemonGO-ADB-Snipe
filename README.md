@@ -1,5 +1,5 @@
 # PokemonGO-ADB-Snipe
-Snipe to a location using ADB.
+Snipe to a location using ADB for Android < Oreo.
 GPS Joystick from App Ninjas required
 
 I wrote this little script to teleport faster when I'm on the laptop.
